@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Content>
+	<ID>MC</ID>
+	<Name>Mythical Creatures</Name>
+	<Creator>Zachary Daltorio</Creator>
+	<monsters>
+	<monster monid="1">
+			<name>Orc</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="2">
+			<name>Troll</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="3">
+			<name>Haunted Tree</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="4">
+			<name>Pocessed Armor</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="666">
+			<name>The Beast</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="5">
+			<name></name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="666">
+			<name>The Beast</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="555">
+			<name>Winged Knight</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="777">
+			<name>God of Space</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="766">
+			<name>God of Death</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="755">
+			<name>God of Life</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="744">
+			<name>God of Water</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="733">
+			<name>God of Fire</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="722">
+			<name>God of Air</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="711">
+			<name>God of Land</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="700">
+			<name>God of Time</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+</monsters>
+</Content>

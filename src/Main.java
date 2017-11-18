@@ -47,8 +47,23 @@ public class Main {
 					System.out.println("Nothing to See here");
 					GameState = "Cheat_Menu";
 					}
-				else {
-					System.out.println("Not Valid Input, Please Enter either Item Number or Name\n");
+				if (i == "8" || i == "Loading Test") {
+					System.out.println("Loading Test");
+					GameState = "Doc_Menu";
+					while (GameState == "Doc+Menu") {
+						if (i == "1" || i == "exit") {
+							GameState = "Main";
+						}
+						if (i == "2" || i == "mob_test") {}
+						if (i == "3" || i == "attack_test") {}
+						if (i == "4" || i == "item_test") {}
+						if (i == "5" || i == "spell_test") {}
+
+					
+						else {
+							System.out.println("Not Valid Input, Please Enter either Item Number or Name\n");
+						}
+					}
 				}
 			}
 		}

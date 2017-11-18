@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Content>
+	<ID>VA</ID>
+	<Name>Vanilla Animals</Name>
+	<Creator>Zachary Daltorio</Creator>
+	<monsters>
+	<monster monid="0">
+			<name>Dummy</name>
+			<level>1</level>
+			<hscale>2</hscale>
+			<health>10</health>
+			<ascale>1.0</ascale>
+			<attack>0</attack>
+			<dscale>1.0</dscale>
+			<defense>0</defense>
+			<sscale>1.0</sscale>
+			<speed>0</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>Null</L1>
+			</attack_list>
+			<xp_gain>0</xp_gain>
+		</monster>
+	<monster monid="1">
+			<name>Rat</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="2">
+			<name>Bat</name>
+			<level>1</level>
+			<hscale>1.1</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>3</attack>
+			<dscale>1.1</dscale>
+			<defense>2</defense>
+			<sscale>1.3</sscale>
+			<speed>6</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+	</monster>
+			<monster monid="3">
+			<name>Wild Cat</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="4">
+			<name>Snake</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="5">
+			<name>Forest Wolf</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="6">
+			<name>Crab</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="7">
+			<name>Shark</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="8">
+			<name>Eel</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="9">
+			<name>Snow Bear</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="10">
+			<name>Forest Spider</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="11">
+			<name>Cave Spider</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="12">
+			<name>Forest Bear</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="13">
+			<name>Snow Wolf</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="14">
+			<name>Snow Fox</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="15">
+			<name>Forest Fox</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="16">
+			<name>Goat</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="17">
+			<name>Forest Lizard</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="18">
+			<name>Fire Lizard</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="19">
+			<name>Snail</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="20">
+			<name>Bee</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="21">
+			<name>Chicken</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="22">
+			<name>Boar</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="23">
+			<name>Buck</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="24">
+			<name>Snow Crab</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="25">
+			<name>Doe</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="26">
+			<name>Wild Dog</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="27">
+			<name>Cobra</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="28">
+			<name>Wolverine</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="29">
+			<name>Frog</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="30">
+			<name>Toad</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="31">
+			<name>Raccoon</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="32">
+			<name>Hyena</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="33">
+			<name>Jaguar</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="34">
+			<name>Owl</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="35">
+			<name>Pigeons</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="36">
+			<name>Elephant</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="37">
+			<name>Gorilla</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="38">
+			<name>Penguin</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="39">
+			<name>Koala</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="40">
+			<name>Kangaroo</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="41">
+			<name>Tasmanian devil</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="42">
+			<name>Honey Badger</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="43">
+			<name>Sand Lizard</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="44">
+			<name>Seal</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="45">
+			<name>Armadillo</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="46">
+			<name>Porcupine</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="47">
+			<name>Fugu</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="48">
+			<name>Squid</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="49">
+			<name>Isopod</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+	<monster monid="50">
+			<name>JellyFish</name>
+			<level>1</level>
+			<hscale>1.2</hscale>
+			<health>3</health>
+			<ascale>1.3</ascale>
+			<attack>2</attack>
+			<dscale>1.1</dscale>
+			<defense>3</defense>
+			<sscale>1.3</sscale>
+			<speed>5</speed>
+			<tameable>yes</tameable>
+			<trate>45</trate>
+			<attack_list>
+				<L1>scrath</L1>
+				<L3>squeel</L3>
+				<L5>bite</L5>
+				<L7>play dead</L7>
+				<L9>Slash</L9>
+				<L11>scurry</L11>
+				<L13>dig</L13>
+				<L15>teeth grind</L15>
+				<L19></L19>
+				<L22></L22>
+				<L26></L26>
+				<L30></L30>
+				<L35></L35>
+				<L40></L40>
+				<L45></L45>
+				<L50></L50>
+			</attack_list>
+		</monster>
+</monsters>
+</Content>
